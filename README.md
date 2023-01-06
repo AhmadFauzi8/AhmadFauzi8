@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+Ahmad Fauzi Amami
+1. Video editing
+2. Photoshop
+3. UI/UX
+4. Copywriting
 <!--
 **AhmadFauzi8/AhmadFauzi8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
